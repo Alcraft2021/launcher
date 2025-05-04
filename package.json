@@ -9,7 +9,7 @@
         "email": "alcraftrandom@gmail.com",
         "url": "https://github.com/Alcraft2021"
     },
-    "url": "http://87.106.101.66:6373",
+    "url": "http://87.106.52.7:6263",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
