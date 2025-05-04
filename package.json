@@ -1,7 +1,7 @@
 {
     "name": "Alcraft-Launcher",
     "preductname": "Alcraft Launcher",
-    "version": "2.0.7",
+    "version": "1.0.0",
     "description": "Launcher de minecraft creador por Alcraft",
     "main": "src/app.js",
     "author": {
