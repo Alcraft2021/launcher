@@ -5,9 +5,9 @@
     "description": "Launcher de minecraft creador por Alcraft",
     "main": "src/app.js",
     "author": {
-        "name": "luuxis, Inc.",
-        "email": "contact@luuxis.fr",
-        "url": "https://github.com/luuxis"
+        "name": "Alcraft2020",
+        "email": "alcraftrandom@gmail.com",
+        "url": "https://github.com/Alcraft2021"
     },
     "url": "http://87.106.101.66:6373",
     "scripts": {
