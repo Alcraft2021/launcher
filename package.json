@@ -1,7 +1,7 @@
 {
     "name": "Alcraft-Launcher",
     "preductname": "Alcraft Launcher",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Launcher de minecraft creador por Alcraft",
     "main": "src/app.js",
     "author": {
@@ -9,7 +9,7 @@
         "email": "alcraftrandom@gmail.com",
         "url": "https://github.com/Alcraft2021"
     },
-    "url": "http://87.106.52.7:6263",
+    "url": "http://79.99.40.71:6041",
     "scripts": {
         "start": "cross-env-shell NODE_ENV=dev electron .",
         "dev": "cross-env-shell DEV_TOOL=open nodemon --exec npm start",
